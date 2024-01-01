@@ -65,6 +65,10 @@ button{
 button:hover{
 	background: #6d44b8;
 }
+.login .pwd{
+	justify-content: center;
+	display: flex;
+}
 .login{
 	height: 460px;
 	background: #eee;
